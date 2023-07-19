@@ -1,1 +1,1 @@
-hello i am from first txt file
+This is from async function 2: hello i am from first txt file and hello i am from second txt file

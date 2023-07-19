@@ -1,9 +1,3 @@
-// const _ = require('lodash');
-// const array = [1, [2, [3, [4]]]];
-
-// const newarray = _.flattenDeep(array);
-// console.log(newarray, 'hello wors');
-
 var http = require('http');
 var fs = require('fs');
 
